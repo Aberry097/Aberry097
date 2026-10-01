@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello, I'm Aura Munoz
 
-<!--
-**Aberry097/Aberry097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
 
-Here are some ideas to get you started:
+I am an engineering student with a profound interest in cybertechnology and a dedication to solving complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Objective
+
+My journey in medical technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+Skill	Associated Project
+SIEM Implementation and Log Analysis	Detection Lab
+Network Traffic Monitoring and Attack Detection	Detection Lab
+Security Automation with Shuffle SOAR	SOC Automation Lab
+Incident Response Planning and Execution	SOC Automation Lab
+Case Management with TheHive	SOC Automation Lab
+Scripting and Automation for Threat Mitigation	SOC Automation Lab
+Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+  
+Certifications
+https://coursera.org/share/9061076a04da380e62d14d74a10a4557 
