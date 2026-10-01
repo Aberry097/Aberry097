@@ -2,11 +2,11 @@ Hello, I'm Aura Munoz
 
 Introduction
 
-I am an engineering student with a profound interest in cybertechnology and a dedication to solving complex problems.
+I am an Electrical engineering student with a profound interest in cybertechnology and a dedication to solving complex problems.
 
 Objective
 
-My journey in medical technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in medical technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field specifically as a Quality Engineer for a Defense and Aeronautics company. 
 
 Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
